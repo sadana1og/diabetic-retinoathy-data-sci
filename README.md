@@ -8,6 +8,6 @@ Our [presentation slides](https://github.com/sadanalog/diabetic-retinoathy-data-
 
 Useful links
 
--   Dataset: [https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set?fbclid=IwAR2gBrdvHjmBtzjIC6ZU-sl5ND6YrSywyy3OUfGBq4RRsYGs6PLr8Zn-QpQ](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set?fbclid=IwAR2gBrdvHjmBtzjIC6ZU-sl5ND6YrSywyy3OUfGBq4RRsYGs6PLr8Zn-QpQ)
--   Dataset Document: [https://rpubs.com/tiagotaveira/debrecen?fbclid=IwAR2lQ8S_ztZe58gHN4dh8kAJQyNi-0-4SpPh9ocuEeddBTlQEsrByRMDPYc](https://rpubs.com/tiagotaveira/debrecen?fbclid=IwAR2lQ8S_ztZe58gHN4dh8kAJQyNi-0-4SpPh9ocuEeddBTlQEsrByRMDPYc)
+-   [Dataset](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set?fbclid=IwAR2gBrdvHjmBtzjIC6ZU-sl5ND6YrSywyy3OUfGBq4RRsYGs6PLr8Zn-QpQ)
+-   [Dataset Document](https://rpubs.com/tiagotaveira/debrecen?fbclid=IwAR2lQ8S_ztZe58gHN4dh8kAJQyNi-0-4SpPh9ocuEeddBTlQEsrByRMDPYc)
 ---
